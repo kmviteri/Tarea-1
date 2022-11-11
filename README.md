@@ -6,6 +6,7 @@
 ## OBJETIVOS ESPECÍFICOS
 * Identificar los conceptos de Voltaje y Corriente que nos permita la resolución y graficación mental de circuitos electrónicos básicos para posteriormente aplicarlos a una situación real.
 * Analizar los factores de conversion y notacion exponencial mediante la lectura de ejercicios propurstos por el libro de Principios de circuitos eléctricos con la finalidad de aprovechar este conocimiento para aplicaciones futuras en el campo academico y profecional
+* Reconocer los diferentes tipos de diagramas para la representacion de circuitos electricos, mediante el estudio de las propiedades de cada tipo de diagrama para aplicarlo en la practica.
 # 2. MARCO TEORICO
 ## CAPITULO 1
 ![image](https://user-images.githubusercontent.com/117187676/200752485-3a6488ef-7908-4ff0-ad7e-089d1b278d83.png)
@@ -27,8 +28,14 @@
 ![image](https://user-images.githubusercontent.com/117187676/200962087-9330e85f-5074-4bcb-bc01-d803fda09fe9.png)
 ![image](https://user-images.githubusercontent.com/117187676/200962100-776b58a0-eee6-41f1-a398-6e0d8cb8cb22.png)
 # 4. VIDEO
-
-
+https://www.youtube.com/watch?v=tXUClIbe_OQ
+# 5. COCLUSIONES
+Se puede concluir que:
+* Gracias a la lectura y analisis de conceptos establecidos en los capitulos 1 y 2, se pudo comprender las definiciones de voltaje, corriente y resistencia, conductancia, notacion de ingenieria, basicas para la resolucion de ejercicios, ademas de el respectivo analisis grafico.
+* La aplicacion de conceptos, definiciones y terminologia propia de el uso de factores de conversion nos permite realizar calculos pertinentes a conversiones de unidades utilizando  e implementando tambien la notacion cientifica o de ingenieria, permitiendonos asi una mejor aplicaion en la practica, tenoendo en cuenta que el sistema de unidades es el Sistema Internacional.
+* Un circuito electrico se puede representar en diferentes tipos de diagramas, en los cuales cada uno de ellos tendran sus propias caracterizticas y propiedades, siendo asi; un circuito electrico sera funcional si y solo si no existiese en el un "corto circuito", para lo cual se requiere de realizar calculos pertinentes de las resistencias involucradas, para obtener un valor de resistencia adecuada para el flujo de corriente requerido.
+# 6. BIBLIOGRAFIA
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
 
 
 
